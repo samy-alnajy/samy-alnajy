@@ -1,4 +1,4 @@
-### Hi, I'm Samy El-Nagy 👋  
+### Hi, I'm Samy Alnajy 👋  
 ### Data Analyst | Turning Data into Insights 📊  
 
 I am a passionate **Data Analyst** focused on transforming raw data into meaningful insights and business decisions.  
