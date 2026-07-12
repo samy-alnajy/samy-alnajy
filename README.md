@@ -58,37 +58,19 @@ https://github.com/samy-alnajy/cottonil-sales-data-analysis
 - LinkedIn: https://linkedin.com/in/samy-alnajy-55bab6343
 - GitHub: https://github.com/samy-alnajy 
 
-Write a simple Python program that simulates a Vacuum Cleaner Agent in Artificial Intelligence.
+ import random
+from random import randint
 
-Requirements:
-- Use 4 rooms: A, B, C, and D.
-- Each room has a random state: Clean or Dirty.
-- Store the room states in a dictionary.
-- The vacuum starts from a random room.
-- If the current room is Dirty, clean it and record the action.
-- If it is Clean, move to the next room.
-- Visit all rooms once.
-- Store all actions in a list.
-- At the end, print:
-  1. Initial room states.
-  2. Actions performed.
-  3. Final room states.
-- Use only basic Python (lists, dictionaries, loops, if statements, and the random module).
-- Keep the code simple and suitable for beginners.
-Make the code as short and simple as possible, similar to classroom examples, without using classes or advanced Python features. 
+room = [a, b, c, d]
+list_state = [c, d, c, d]
+action = []
 
-Analyze the uploaded image and recreate the Python code exactly as shown.
+state = {
+    a: c,
+    b: d,
+    c: c,
+    d: c
+}
 
-Requirements:
-- Preserve the same variable names, order, indentation, and formatting.
-- Do not improve, simplify, or optimize the code.
-- Reconstruct any partially hidden lines using the surrounding context.
-- This is an AI Vacuum Cleaner Agent program with four rooms (a, b, c, d).
-- The code should include:
-  - import random
-  - from random import randint
-  - room = [a, b, c, d]
-  - list_state = [c, d, c, d]
-  - action = []
-  - state = { ... }
-- Return only the complete Python code without any explanation.
+action = action[random.randint(2)]
+print(action)
