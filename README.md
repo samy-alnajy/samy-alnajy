@@ -56,4 +56,23 @@ https://github.com/samy-alnajy/cottonil-sales-data-analysis
 
 ### 📫 Connect with Me
 - LinkedIn: https://linkedin.com/in/samy-alnajy-55bab6343
-- GitHub: https://github.com/samy-alnajy  
+- GitHub: https://github.com/samy-alnajy 
+
+Write a simple Python program that simulates a Vacuum Cleaner Agent in Artificial Intelligence.
+
+Requirements:
+- Use 4 rooms: A, B, C, and D.
+- Each room has a random state: Clean or Dirty.
+- Store the room states in a dictionary.
+- The vacuum starts from a random room.
+- If the current room is Dirty, clean it and record the action.
+- If it is Clean, move to the next room.
+- Visit all rooms once.
+- Store all actions in a list.
+- At the end, print:
+  1. Initial room states.
+  2. Actions performed.
+  3. Final room states.
+- Use only basic Python (lists, dictionaries, loops, if statements, and the random module).
+- Keep the code simple and suitable for beginners.
+Make the code as short and simple as possible, similar to classroom examples, without using classes or advanced Python features. 
