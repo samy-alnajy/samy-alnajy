@@ -76,3 +76,19 @@ Requirements:
 - Use only basic Python (lists, dictionaries, loops, if statements, and the random module).
 - Keep the code simple and suitable for beginners.
 Make the code as short and simple as possible, similar to classroom examples, without using classes or advanced Python features. 
+
+Analyze the uploaded image and recreate the Python code exactly as shown.
+
+Requirements:
+- Preserve the same variable names, order, indentation, and formatting.
+- Do not improve, simplify, or optimize the code.
+- Reconstruct any partially hidden lines using the surrounding context.
+- This is an AI Vacuum Cleaner Agent program with four rooms (a, b, c, d).
+- The code should include:
+  - import random
+  - from random import randint
+  - room = [a, b, c, d]
+  - list_state = [c, d, c, d]
+  - action = []
+  - state = { ... }
+- Return only the complete Python code without any explanation.
