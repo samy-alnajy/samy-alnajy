@@ -36,6 +36,7 @@ Currently building real-world projects and improving my skills in data analysis 
 
 🔗 Repository:  
 https://github.com/samy-alnajy/cottonil-sales-data-analysis  
+https://github.com/samy-alnajy/Salla-Call-Center-Dashboard
 
 ---
 
