@@ -124,7 +124,7 @@
 - Covered Executive Overview, Sales Analysis, Product Analysis, Returns Analysis and Customer Behavior
 - Analyzed sales, invoices, average basket value, product performance, returns and seasonality
 
-🔗 **Repository:** [cottonil-sales-data-analysis](https://github.com/samyalnajy/cottonil-sales-data-analysis)
+🔗 **Repository:** [cottonil-sales-data-analysis](https://github.com/samy-alnajy/cottonil-sales-data-analysis)
 
 ---
 
