@@ -28,10 +28,10 @@
 | 💼 **Primary Focus** | Data Analysis & Business Intelligence |
 | 🚀 **Career Direction** | Data Analyst → Data Engineering |
 | 📊 **Core Tools** | Python, SQL, Excel, Power BI, Power Query, DAX |
-| 🐍 **Programming** | Python, SQL, C++, Java, Kotlin |
+| 🐍 **Programming** | Python, SQL, C++, Java |
 | 🧠 **Interests** | Data Analytics, Data Engineering, Data Mining, AI & Machine Learning |
 | 🌐 **Portfolio** | [samyalnajy.vercel.app](https://samyalnajy.vercel.app) |
-| 💻 **GitHub** | [github.com/samyalnajy](https://github.com/samyalnajy) |
+| 💻 **GitHub** | [github.com/samyalnajy](https://github.com/samy-alnajy) |
 | 🎯 **Goal** | Build real-world data solutions and grow into a professional Data Engineer |
 
 ---
