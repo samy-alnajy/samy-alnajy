@@ -31,7 +31,7 @@
 | 🐍 **Programming** | Python, SQL, C++, Java |
 | 🧠 **Interests** | Data Analytics, Data Engineering, Data Mining, AI & Machine Learning |
 | 🌐 **Portfolio** | [samyalnajy.vercel.app](https://samyalnajy.vercel.app) |
-| 💻 **GitHub** | [github.com/samyalnajy](https://github.com/samy-alnajy) |
+| 💻 **GitHub** | [github.com/samy-alnajy](https://github.com/samy-alnajy) |
 | 🎯 **Goal** | Build real-world data solutions and grow into a professional Data Engineer |
 
 ---
